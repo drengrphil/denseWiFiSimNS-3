@@ -1,9 +1,4 @@
 /*
- Phillip and Amr
- Electrical and Computer Engineering
- Queen's University, Kingston, ON
- CISC 825 Final Project
-
  Interference-aware AP selection in Dense IEEE 802.11 Networks
 
  Standard used: 802.11n Wifi Network
